@@ -1,0 +1,9 @@
+#getstarted{
+  background: url('../image/dallas-reedy-F2HTC_CF4Jo-unsplash.jpg'); 
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  min-height: 950px;
+  position: relative;
+}
+
